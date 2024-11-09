@@ -12,6 +12,7 @@
 #include "ofx/DirectoryWatcher.h"
 #include "Poco/Exception.h"
 #include "Poco/Path.h"
+#include <memory>
 #include "ofTypes.h"
 #include "ofEvents.h"
 #include "ofx/IO/DirectoryUtils.h"

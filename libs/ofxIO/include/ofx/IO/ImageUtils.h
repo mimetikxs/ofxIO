@@ -9,6 +9,7 @@
 
 
 #include "ofRectangle.h"
+#include <memory>
 #include "ofTypes.h"
 #include "ofFileUtils.h"
 #include "ofImage.h"

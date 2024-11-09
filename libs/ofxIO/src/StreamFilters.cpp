@@ -6,6 +6,7 @@
 
 
 #include "ofx/IO/StreamFilters.h"
+#include <memory>
 #include "ofTypes.h"
 
 

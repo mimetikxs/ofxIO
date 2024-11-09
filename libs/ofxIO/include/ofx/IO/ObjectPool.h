@@ -7,7 +7,7 @@
 
 #pragma once
 
-
+#include <memory>
 #include "ofTypes.h"
 
 //
